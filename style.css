@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-color: black;
+    color: white;
+}
+img {
+    margin: 10px;
+}
+
+figcaption {
+    text-align: center;
+    color: teal;
+    font-size: 22px;
+    /* text-shadow: 1px 1px gray; */
+    /* display: flex; */
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
